@@ -1,10 +1,10 @@
 // Logical Operators (&&, ||, !)
-// 
 
 #include<stdio.h>
 
 int main(){
-printf("----Logical Operators-----\n");
+
+printf("----Logical Operators----\n");
 // int a = 1, b = 0;
 int a = 0, b = 0;
 printf("a && b: %d\n", a&&b); // 0 // 0
