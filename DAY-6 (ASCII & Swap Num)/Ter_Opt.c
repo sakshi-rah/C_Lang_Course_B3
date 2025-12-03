@@ -16,7 +16,6 @@ int main(){
     printf("Greater Number is %d\n", result); // 350
 
     // Finding Smaller Number
-
     int a = 100, b = 30;
     int output = (a<b)? a : b; // (10<30) = T => Expression1 Run = a => a = 10
     printf("Smaller Number is %d\n", output); // 10

@@ -1,3 +1,4 @@
+//strcat() = two string join
 #include<stdio.h>
 #include<string.h>
 

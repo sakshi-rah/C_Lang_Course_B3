@@ -12,9 +12,9 @@ int main()
     printf("Enter Value Of a & b:");
     scanf("%d%d", &a, &b);
 
-    printf("a+b: %d\n", a + b); // a+b: 50
+    printf("a+b: %d\n", a + b); // a+b: 50, a = 20, b=30
     int sum = a + b;
-    printf("Sum of a & b is %d\n\n", sum);
+    printf("Sum of a & b is %d\n\n", sum);// 50
 
     printf("a-b: %d\n", a - b); // a-b: -10
     int sub = a - b;            // 20-30 = -10
@@ -26,11 +26,11 @@ int main()
 
     printf("a%%b: %d\n", a % b); // a%b: 20
     int mod = (a % b);             // 10%3
-    printf("Mod a & b is %d\n\n", mod);
+    printf("Mod a & b is %d\n\n", mod); // 20
 
-    printf("a/b: %f\n", (float)a/b);
+    printf("a/b: %f\n",(float)a/b);
     float div = (float)a/b; // type casting (int- float) 
-    printf("Div a & b is %.2f\n", div);
+    printf("Div a & b is %.2f\n", div);// 0.67
 
     return 0;
 }

@@ -30,7 +30,7 @@ void main()
     // printf("Enter Operator(+,-,*,/,%%): ");
     // scanf(" %c", &ch);
 
-    // // apply switch case
+     // apply switch case
     // switch (ch)
     // {
     // case '+':

@@ -3,7 +3,8 @@
 // a = 97 - 32 = 65 = A
 // b = 98 - 32 = 66 = B 
 // 32 = space, 33 = !
-
+// A = 65 to Z = 90
+// a = 97 to z = 122
 #include<stdio.h>
 
 int main(){
